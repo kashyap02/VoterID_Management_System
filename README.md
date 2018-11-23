@@ -19,7 +19,7 @@ Windows :
 	1. Download and Install WampServer
 	2. Download source code and Move the sourcecode to "C:\wamp64\www\"
 	3. Launch "localhost/phpmyadmin" in browser with username :"root" and password : ""  (Default)
-	4. Import car_rental_sys.sql to phpmyadmin 
+	4. Import VoterID_Management_System.sql to phpmyadmin 
 
 Ubuntu :
 
@@ -28,6 +28,6 @@ Ubuntu :
 
 2.After installing LAMP and phpMyAdmin in Ubuntu, do the following:							
 3 Download the sourcecode and move it to "/var/www/html/"
-4. Launch "localhost/phpmyadmin" in browser import car_rental_sys.sql from extracted sourcecode to phpmyadmin
-5. Launch "localhost/project" in broswer 
+4. Launch "localhost/phpmyadmin" in browser import VoterID_Management_System.sql from extracted sourcecode to phpmyadmin
+5. Launch "localhost/VoterID_Management_System" in browser 
 
