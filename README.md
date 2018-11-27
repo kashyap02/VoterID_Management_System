@@ -1,4 +1,4 @@
-Subject - Database Management System(CSE - S302).
+Subject - Database Management System(CSE - S301).
 
 Project Name - VoterID_Management_System
 
